@@ -1,20 +1,20 @@
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thomasraiter&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasraiter&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<svg width="100%" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
 
-<div style="display: inline-block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+  <text x="40" y="36" font-family="sans-serif" font-size="15" font-weight="500" fill="#e2e2e2">Linguagens mais usadas</text>
 
-<br>
+  <text x="40" y="72" font-family="sans-serif" font-size="14" fill="#e2e2e2">JavaScript</text>
+  <text x="640" y="72" font-family="sans-serif" font-size="12" fill="#888" text-anchor="end">70%</text>
+  <rect x="40" y="80" width="600" height="14" rx="7" fill="#2a2a2a"/>
+  <rect x="40" y="80" width="420" height="14" rx="7" fill="#f7df1e"/>
 
-### Me segue nas redes abaixo!
+  <text x="40" y="126" font-family="sans-serif" font-size="14" fill="#e2e2e2">HTML</text>
+  <text x="640" y="126" font-family="sans-serif" font-size="12" fill="#888" text-anchor="end">20%</text>
+  <rect x="40" y="134" width="600" height="14" rx="7" fill="#2a2a2a"/>
+  <rect x="40" y="134" width="120" height="14" rx="7" fill="#e34c26"/>
 
-<div> 
-  <a href="https://instagram.com/thomasraiter" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:thomasgraiter@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thomas-raiter-b1bb57257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <text x="40" y="180" font-family="sans-serif" font-size="14" fill="#e2e2e2">CSS</text>
+  <text x="640" y="180" font-family="sans-serif" font-size="12" fill="#888" text-anchor="end">10%</text>
+  <rect x="40" y="188" width="600" height="14" rx="7" fill="#2a2a2a"/>
+  <rect x="40" y="188" width="60" height="14" rx="7" fill="#264de4"/>
+
+</svg>
